@@ -59,13 +59,17 @@ After displaying the results, the program will ask the user if they would like t
 ## How to Run
 1. Clone the repository: 
    ```bash
-   git clone https://github.com/yourusername/DSA-Explorer.git
+   git clone https://github.com/RithvikGoud/DSA-Explorer---JAVA.git
    ```
-2. Compile the Java files:
+2. Navigate to the project folder:
+   ```bash
+   cd DSA-Explorer---JAVA
+   ```
+3. Compile the Java files:
    ```bash
    javac main.java  # or use the actual file name of your program
    ```
-3. Run the program:
+4. Run the program:
    ```bash
    java main  # Replace 'DSAExplorer' with your actual Java class name
    ```
